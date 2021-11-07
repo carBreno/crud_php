@@ -1,0 +1,1 @@
+CRUD em php, caso queira utilizar, precisa arrumar as configurações de conexão com banco de dados.
